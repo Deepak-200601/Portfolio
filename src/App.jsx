@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className={Styles.App}>
-      Hello World
+      Hello World welcome to my portfolio!
     </div>
   )
 }
